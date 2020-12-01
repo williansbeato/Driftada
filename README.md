@@ -1,5 +1,5 @@
 # Driftada
-**Driftada** é um app desenvolvido em Kotlin, que mostra informações sobre o campeonato brasileiro de drift.
+**Driftada** é um app desenvolvido em Kotlin, que mostra informações sobre o cenário brasileiro de drift.
 
 # Funcionalidades
 -   Registrar.
